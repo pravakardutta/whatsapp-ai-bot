@@ -4,3 +4,4 @@ requests
 python-dotenv
 openai
 werkzeug==2.3.7
+flask==2.3.3

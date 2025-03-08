@@ -3,3 +3,4 @@ uvicorn
 requests
 python-dotenv
 openai
+werkzeug==2.3.7
